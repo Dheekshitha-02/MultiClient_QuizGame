@@ -3,7 +3,7 @@
 ## 🧩 Quiz Game Over TCP Sockets (C Language)
 This is a C-based terminal quiz game built using client-server architecture with TCP sockets. The client connects to the server, receives questions, and sends answers. The server validates them, times the responses, and displays a scoreboard with results and winner(s).
 
-##🎯 Features
+## 🎯 Features
 - Developed in pure C using socket programming
 
 - Real-time multiple-choice quiz with a 60-second time limit per question
